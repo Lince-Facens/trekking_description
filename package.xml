@@ -1,0 +1,19 @@
+<package>
+  <name>trekking_description</name>
+  <version>0.0.1</version>
+
+  <description>This package contains the Trekking Robot description</description>
+  <author email="emanuel.tesv@gmail.com">Emanuel Huber</author>
+
+  <maintainer email="emanuel.tesv@gmail.com">Emanuel Huber</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <run_depend>joint_state_publisher</run_depend>
+  <run_depend>robot_state_publisher</run_depend>
+  <run_depend>rviz</run_depend>
+  <run_depend>xacro</run_depend>
+
+</package>
